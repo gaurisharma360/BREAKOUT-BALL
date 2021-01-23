@@ -87,7 +87,7 @@ public class Gameplay extends JPanel implements KeyListener,ActionListener
 			ballYdir=0;
 			g.setColor(Color.RED);
 			g.setFont(new Font("serif",Font.BOLD,30));
-			g.drawString("GAME OVER,SCORES:", 190, 300);
+			g.drawString("GAME OVER", 230, 300);
 			
 			g.setFont(new Font("serif",Font.BOLD,25));
 			g.drawString("Press Enter to Restart", 230, 350);
