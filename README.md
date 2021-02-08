@@ -1,4 +1,4 @@
-# Break_the_Bricksss
+# BREAKOUT BALL
 Enjoy and Break the Bricks till you win!!!
 
 Some snaps of the above game are:
